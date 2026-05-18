@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+dnspython
+tldextract
+pymupdf
+python-dotenv
+pdfplumber
